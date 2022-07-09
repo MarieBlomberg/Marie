@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="`rWrh}GW)mHEzrCsS`o-" deletable="false" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="PQ-iKP?N8m@tI=!0mjjS"><value name="text"><shadow type="text" id="Uk1XTm7q~Y*ztRnKVq3/"><field name="TEXT">Hall ale sammen</field></shadow></value><next><block type="basic_show_icon" id="2z8QCb;l?W63=id(R27M"><field name="i">IconNames.Heart</field><next><block type="playMelody" id="QmS//k$x=IK*|+Wj%AQd"><value name="melody"><shadow type="melody_editor" id="c/1~jbPr-j}Ag/aI-ZQ:"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="@V7c:cc|.rtG/m,0$nFr"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="controls_repeat_ext" id="ZjwPot+@9IyHt@genOl="><value name="TIMES"><shadow type="math_whole_number" id="YgDiAX6eR?u+({}2Neb,"><field name="NUM">2</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="X)cd)Z/`T8znlpScU=)b" deletable="false"><field name="i">IconNames.Heart</field><next><block type="playMelody" id="rr,Z1Z0HjSj8eS1)/F$D" deletable="false"><value name="melody"><shadow type="melody_editor"><field name="melody">"- - - - - - - - "</field></shadow><block type="melody_editor" id="cR{kJcU)-dwWZLx_]9M-" deletable="false"><field name="melody">"C5 B A G F E D C "</field></block></value><value name="tempo"><shadow type="math_number_minmax" id="G-H1Jqw/$M^h|0=@C([L"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement><next><block type="basic_show_icon" id="/YjIJf`V8=vb_:EO_=B:"><field name="i">IconNames.Heart</field><next><block type="playMelody" id="1|mCBR`,0eN8CGgeKj:T" deletable="false"><value name="melody"><shadow type="melody_editor" id="GE!Fx[TZiQwDF||4ppj7"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">140</field></shadow><block type="math_number" id="M$B*5(1PFjgRi_=Um^[n"><field name="NUM">235</field></block></value><next><block type="basic_show_icon" id="2$%^!=])Q;Iv.87rQIrz" deletable="false"><field name="i">IconNames.Heart</field><next><block type="basic_show_icon" id="Q](x5nAG=U4[mv}`LS}Z" deletable="false"><field name="i">IconNames.Heart</field><next><block type="playMelody" id="R*)i.ds;cnZTCv[5+$g{"><value name="melody"><shadow type="melody_editor" id=")B][YFt(ppJ4$fPhH#q8"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="`,U;u])_j]!b;[6Q]:$("><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_icon" id="S+1_`vCw;@L)BZTsA+Z!" deletable="false"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="|TXxCx2%q.cCM!PNS+5r" deletable="false"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="G~IHbM3B!d6AI$CH%tHn" deletable="false"><field name="LEDS">`
+        . . . . . 
+        # # # # . 
+        # . . # . 
+        # # # # . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="2usuRg}Z=c1i|;]:R[kz" deletable="false"><field name="LEDS">`
+        . . . . . 
+        # # # # . 
+        # . . # . 
+        # # # # . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="6Z=aQ0X19+qjiwJb@+$R" deletable="false"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="7KpvU5xw#l}2R08){V%|" deletable="false"><field name="LEDS">`
+        # # # . . 
+        # . . . . 
+        # # # . . 
+        # . . . . 
+        # # # . .
+        `</field><next><block type="basic_show_icon" id="gT1me!p65b(T9@kH/~AK"><field name="i">IconNames.Heart</field><next><block type="playMelody" id="T^0]j(}o5ky]vF2ERs9d"><value name="melody"><shadow type="melody_editor" id="7qYhhUKg%;Vdd9$oz,c4"><field name="melody">"C C5 B A G A B C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="##Hl/j-2w3O%YOb*fJ)w"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_icon" id="2h)vF?e1tgRi/y`Zqo?="><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="controls_if" id="l$IR={#Gp2hb+0c*j=zN" disabled="true" deletable="false" x="-2000" y="305"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="HdN%Bfj!!q1$dH}eusvZ" disabled="true" deletable="false"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="nCV^4%0967^w[I-wGo)v" disabled="true" deletable="false"></block></value><value name="B"><shadow type="math_number" disabled="true"><field name="NUM">8</field></shadow><block type="math_arithmetic" id="WE#.BqdL;-Us:8HGh;F." disabled="true" deletable="false"><field name="OP">ADD</field><value name="A"><shadow type="math_number" id="vzW#Kz*E;=6%d#!JfL[w" disabled="true"><field name="NUM">0</field></shadow></value><value name="B"><shadow type="math_number" id="1LnxZk=mv9*0,AhJ%+k:" disabled="true"><field name="NUM">0</field></shadow></value></block></value></block></value></block><block type="device_forever" id="Q9=s-(QqLI8#-kZ;=7vw" deletable="false" x="-1944" y="699"></block><block type="melody_editor" id="E;k/$QK45{X]e2JW^DV1" disabled="true" deletable="false" x="1015" y="2319"><field name="melody">"C5 E G B F C G A "</field></block></xml>
